@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "FJMB3K3B2C.com.hiems.PartyApp"
+        ],
+        "components": [
+          {
+            "/": "/yippa/oda",
+            "?": {
+              "k": "?*"
+            }
+          },
+          {
+            "/": "/yippa/oda.html",
+            "?": {
+              "k": "?*"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
